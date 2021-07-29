@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T07:58:15.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" version="14.9.3" etag="qwjDSsrV3Rn0tcFsXDzR" type="github"><diagram id="CVxMMKqlb5XSe_PXbH-X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-29T07:58:24.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="NUX28Aw11BHA1QdotiIV" version="14.9.3" type="github">
+  <diagram id="CVxMMKqlb5XSe_PXbH-X" name="Page-1">
+    <mxGraphModel dx="689" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8H90kx9wL8EgnxF8kt5-2" target="t8H90kx9wL8EgnxF8kt5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-2" value="合同" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8H90kx9wL8EgnxF8kt5-4" target="t8H90kx9wL8EgnxF8kt5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-4" value="订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8H90kx9wL8EgnxF8kt5-6" target="t8H90kx9wL8EgnxF8kt5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-6" value="验收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-7" value="付款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-8" value="合同创建&lt;br /&gt;合同变更&lt;br /&gt;合同审核&lt;br /&gt;合同管理" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-9" value="订单创建&lt;br /&gt;条款变更&lt;br /&gt;无合同订单" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-10" value="验收审批" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t8H90kx9wL8EgnxF8kt5-11" value="货到付款人工发起&lt;br /&gt;阶段付款自动生成&lt;br /&gt;质保金自动生成&lt;br /&gt;特殊条款人工发起&lt;br /&gt;发票审核&lt;br /&gt;出纳付款" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
