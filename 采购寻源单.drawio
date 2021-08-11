@@ -1,1 +1,462 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T07:08:13.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.9.6" etag="EPsNZKoNuolkN0jsXebM" type="github"><diagram id="q3FrJWFNIrJ3PEpqhN4a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-11T08:38:01.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="WIHSortWuJmK9ABRHk_1" version="14.9.6" type="github">
+  <diagram id="q3FrJWFNIrJ3PEpqhN4a" name="Page-1">
+    <mxGraphModel dx="2486" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-7" target="RHY9D-U5pHYsEGbVshPa-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-7" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;招投标&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1739" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-11" target="RHY9D-U5pHYsEGbVshPa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-11" value="&lt;span style=&quot;text-align: left&quot;&gt;金额（10W,100W]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="85" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-13" target="RHY9D-U5pHYsEGbVshPa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-13" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(100w,500w]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="132.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-15" target="RHY9D-U5pHYsEGbVshPa-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-15" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(500w,&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="190" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-16" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="80" width="356" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-18" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→ 采购二审（吉塔）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="125" width="446" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-19" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→ 采购二审（吉塔）→ 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="180" width="376" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-21" target="RHY9D-U5pHYsEGbVshPa-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-21" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-22" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→ 采购二审（吉塔）→ 采购三审（劳拉）→&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）(删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="240" width="406" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-23" target="RHY9D-U5pHYsEGbVshPa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-23" target="RHY9D-U5pHYsEGbVshPa-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-23" value="&lt;span style=&quot;text-align: left&quot;&gt;询比价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="868.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-25" target="RHY9D-U5pHYsEGbVshPa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-25" target="RHY9D-U5pHYsEGbVshPa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-25" target="RHY9D-U5pHYsEGbVshPa-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-25" value="&lt;span style=&quot;text-align: left&quot;&gt;采购员提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="532.5" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-26" target="RHY9D-U5pHYsEGbVshPa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-26" target="RHY9D-U5pHYsEGbVshPa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-26" target="RHY9D-U5pHYsEGbVshPa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-26" target="RHY9D-U5pHYsEGbVshPa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-26" value="&lt;span style=&quot;text-align: left&quot;&gt;直接询价/三方比价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-27" target="RHY9D-U5pHYsEGbVshPa-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-27" target="RHY9D-U5pHYsEGbVshPa-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-27" value="&lt;span style=&quot;text-align: left&quot;&gt;指定采购&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="562.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-28" target="RHY9D-U5pHYsEGbVshPa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-28" target="RHY9D-U5pHYsEGbVshPa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-28" target="RHY9D-U5pHYsEGbVshPa-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-28" target="RHY9D-U5pHYsEGbVshPa-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-28" value="&lt;span class=&quot;content mubu-node&quot; style=&quot;text-align: left&quot;&gt;需求方指定采购&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span class=&quot;note&quot; style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;暂时不存在这个场景&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="435" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-30" target="RHY9D-U5pHYsEGbVshPa-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-30" target="RHY9D-U5pHYsEGbVshPa-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-30" target="RHY9D-U5pHYsEGbVshPa-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-30" value="&lt;span style=&quot;text-align: left&quot;&gt;采购部指定采购&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="681.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-32" target="RHY9D-U5pHYsEGbVshPa-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-32" value="&lt;span style=&quot;text-align: left&quot;&gt;金额≤100w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="325" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-34" target="RHY9D-U5pHYsEGbVshPa-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-34" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(100w,500w]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="395" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-36" target="RHY9D-U5pHYsEGbVshPa-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-36" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(500w,&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="477.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-37" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）→ 采购一审（对应采购员）→ 采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="315" width="376" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-38" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span class=&quot;content mubu-node&quot; style=&quot;text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）→需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;span class=&quot;bold&quot;&gt;需求部门三审（需求方一级部门负责人）（删除）&lt;/span&gt;→采购一审（从其他采购员中随机一个进行交叉审批）→采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span class=&quot;note&quot; style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#999999&quot; style=&quot;font-size: 11px&quot;&gt;如关联多个PR单，则会有多个需求部门审核，最多5个部门三二一审，最多15审&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="370" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-39" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流： 需求部门一审（需求方三级部门负责人）→需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;→采购一审（从其他采购员中随机一个进行交叉审批）→采购二审（吉塔）→ 财务BP二审（） → 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1811" y="457.5" width="456" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-41" target="RHY9D-U5pHYsEGbVshPa-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-41" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;（删除）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="547.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-42" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;→采购一审（从其他采购员中随机一个进行交叉审批）→采购二审（吉塔）→ 财务BP二审（）→ 采购三审（劳拉）→&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1811" y="532.5" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-46" target="RHY9D-U5pHYsEGbVshPa-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-46" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;金额≤500w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="626.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-48" target="RHY9D-U5pHYsEGbVshPa-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-48" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(500w,&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="686.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-50" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="620" width="570" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-51" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→采购二审（吉塔）→ 财务BP二审（） → 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="675" width="456" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-53" target="RHY9D-U5pHYsEGbVshPa-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-53" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="747.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-54" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→采购二审（吉塔）→ 财务BP二审（）→ 采购三审（劳拉）→&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1811" y="736.25" width="450" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-60" target="RHY9D-U5pHYsEGbVshPa-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-60" target="RHY9D-U5pHYsEGbVshPa-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-60" target="RHY9D-U5pHYsEGbVshPa-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-60" target="RHY9D-U5pHYsEGbVshPa-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-60" value="&lt;span style=&quot;text-align: left&quot;&gt;直接结果审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="873.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-62" target="RHY9D-U5pHYsEGbVshPa-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-62" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;金额(10w,100w]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1448.5" y="810" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-64" target="RHY9D-U5pHYsEGbVshPa-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-64" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(100w,500w]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1448.5" y="857.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-66" target="RHY9D-U5pHYsEGbVshPa-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-66" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(500w,&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1448.5" y="903.75" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-67" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1618.5" y="805" width="376" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-68" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→ 采购二审（吉塔）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1618.5" y="850" width="446" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-69" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→ 采购二审（吉塔）→ 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1618.5" y="898.75" width="561.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-71" target="RHY9D-U5pHYsEGbVshPa-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-71" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;3000w&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1448.5" y="951.25" width="111.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-72" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：采购一审（从其他采购员中随机一个进行交叉审批）→ 采购二审（吉塔）→ 采购三审（劳拉）→&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1618" y="942.5" width="450" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-92" target="RHY9D-U5pHYsEGbVshPa-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-92" target="RHY9D-U5pHYsEGbVshPa-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-92" target="RHY9D-U5pHYsEGbVshPa-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-92" target="RHY9D-U5pHYsEGbVshPa-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-92" target="RHY9D-U5pHYsEGbVshPa-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-92" value="&lt;span style=&quot;text-align: left&quot;&gt;直接询价/三方比价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1120" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-93" target="RHY9D-U5pHYsEGbVshPa-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-93" target="RHY9D-U5pHYsEGbVshPa-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1264" y="1250" />
+              <mxPoint x="1264" y="1378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-93" value="&lt;span style=&quot;text-align: left&quot;&gt;需求方提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1235" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-94" target="RHY9D-U5pHYsEGbVshPa-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-94" target="RHY9D-U5pHYsEGbVshPa-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-94" target="RHY9D-U5pHYsEGbVshPa-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-94" target="RHY9D-U5pHYsEGbVshPa-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-94" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;指定采购&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1297.5" y="1362.5" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-96" target="RHY9D-U5pHYsEGbVshPa-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-96" value="&lt;span style=&quot;text-align: left&quot;&gt;金额（10W,100W]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1065" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-98" target="RHY9D-U5pHYsEGbVshPa-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-98" value="&lt;span style=&quot;text-align: left&quot;&gt;金额(100w,500w]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1112.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-100" target="RHY9D-U5pHYsEGbVshPa-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-100" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;金额&amp;gt;500W&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1170" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-101" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）→ 采购一审（对应采购员）&lt;/span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="1060" width="449" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-102" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）→ 需求部门二审（需求方二级部门负责人） → 采购一审（对应采购员）→ 采购二审（吉塔）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="1105" width="446" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-103" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;→ 采购一审（对应采购员）→ 采购二审（吉塔）→ 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1155" width="459" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-105" target="RHY9D-U5pHYsEGbVshPa-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-105" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;3000w&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;（删除）&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1230" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-106" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;→ 采购一审（对应采购员）→ 采购二审（吉塔）→ 采购三审（劳拉）→&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1215" width="469" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-109" target="RHY9D-U5pHYsEGbVshPa-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-109" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;金额≤10w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1025" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-110" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="1020" width="289" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-113" target="RHY9D-U5pHYsEGbVshPa-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-113" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;金额≤100w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1295" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-115" target="RHY9D-U5pHYsEGbVshPa-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-115" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;金额(100w,500w]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1342.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-117" target="RHY9D-U5pHYsEGbVshPa-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-117" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;金额&amp;gt;500W&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1400" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-118" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）→ 采购一审（对应采购员）→ 采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="1290" width="449" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-119" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人）→ 需求部门二审（需求方二级部门负责人） → 采购一审（对应采购员）→ 采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="1335" width="446" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-120" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;→ 采购一审（对应采购员）→ 采购二审（吉塔）→ 财务BP二审（）→ 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1385" width="459" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-122" target="RHY9D-U5pHYsEGbVshPa-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-122" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;3000w&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;（删除）&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1460" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-123" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;→ 采购一审（对应采购员）→ 采购二审（吉塔）→ 财务BP二审（）→ 采购三审（劳拉）→&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1445" width="469" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-140" target="RHY9D-U5pHYsEGbVshPa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-140" target="RHY9D-U5pHYsEGbVshPa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-140" value="&lt;span style=&quot;text-align: left&quot;&gt;采购寻源单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1275" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-142" target="RHY9D-U5pHYsEGbVshPa-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-142" target="RHY9D-U5pHYsEGbVshPa-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-142" value="&lt;span style=&quot;text-align: left&quot;&gt;所有人提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="1739" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-144" target="RHY9D-U5pHYsEGbVshPa-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-144" target="RHY9D-U5pHYsEGbVshPa-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-144" target="RHY9D-U5pHYsEGbVshPa-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-144" value="&lt;span style=&quot;text-align: left&quot;&gt;招投标定标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-145" target="RHY9D-U5pHYsEGbVshPa-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-145" target="RHY9D-U5pHYsEGbVshPa-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-145" target="RHY9D-U5pHYsEGbVshPa-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-145" value="&lt;span class=&quot;content mubu-node&quot; style=&quot;text-align: left&quot;&gt;直接结果审批&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span class=&quot;note&quot; style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;同上&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1312.5" y="1830" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-147" target="RHY9D-U5pHYsEGbVshPa-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-147" value="&lt;span style=&quot;text-align: left&quot;&gt;金额≤500w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1562.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-149" target="RHY9D-U5pHYsEGbVshPa-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-149" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;金额&amp;gt;500W&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1620" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-150" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →采购一审（需求方提交则采购员，采购员提交则交叉）→ 采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1548.75" width="479" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-151" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;→采购一审（需求方提交则采购员，采购员提交则交叉）→ 采购二审（吉塔）→ 财务BP二审（） → 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1605" width="478" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-153" target="RHY9D-U5pHYsEGbVshPa-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-153" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;3000w&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;（删除）&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1687.5" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-154" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;→ 采购一审（需求方提交则采购员，采购员提交则交叉）→ 采购二审（吉塔）→ 财务BP二审（）→ 采购三审（劳拉）→&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1665" width="488" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-156" target="RHY9D-U5pHYsEGbVshPa-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-156" value="&lt;span style=&quot;text-align: left&quot;&gt;金额≤500w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1782.75" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-158" target="RHY9D-U5pHYsEGbVshPa-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-158" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;b&gt;金额&amp;gt;500W&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1840.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-159" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →采购一审（需求方提交则采购员，采购员提交则交叉）→ 采购二审（吉塔）→ 财务BP二审（）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1769" width="479" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-160" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;→采购一审（需求方提交则采购员，采购员提交则交叉）→ 采购二审（吉塔）→ 财务BP二审（） → 采购三审（劳拉）&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;/ul&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1825.25" width="478" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHY9D-U5pHYsEGbVshPa-162" target="RHY9D-U5pHYsEGbVshPa-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-162" value="&lt;span style=&quot;text-align: left&quot;&gt;金额＞&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;3000w&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;（删除）&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="1907.75" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHY9D-U5pHYsEGbVshPa-163" value="&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left&quot;&gt;审批流：需求部门一审（需求方三级部门负责人） → 需求部门二审（需求方二级部门负责人） →&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;需求部门三审（需求方一级部门负责人）&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;→ 采购一审（需求方提交则采购员，采购员提交则交叉）→ 采购二审（吉塔）→ 财务BP二审（）→ 采购三审（劳拉）→&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;bold&quot; style=&quot;text-align: left&quot;&gt;&lt;b&gt;大额审批（文谦）（删除）&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;children&quot; style=&quot;text-align: left&quot;&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1885.25" width="488" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
